@@ -2590,4 +2590,21 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.css.map */
+.glow-logo {
+  filter: drop-shadow(0 0 4px #7bff00);
+  animation: glow 2s infinite;
+  padding-bottom: 2px;
+  -webkit-box-reflect: below 1px
+    linear-gradient(transparent, transparent, #0005);
+}
+@keyframes glow {
+    0% {
+        filter: drop-shadow(0 0 4px #7bff00);
+    }
+    50% {
+        filter: drop-shadow(0 0 10px #7bff00);
+    }
+    100% {
+        filter: drop-shadow(0 0 4px #7bff00);
+    }
+}
