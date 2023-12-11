@@ -108,7 +108,7 @@ Description: Portfolio/CV/Resume HTML Template
   color:#5E5C7F;
 }
 .contact-info .social-icons i:hover {
-  color:#FF4C60;
+  color:#5bff4c;
 }
 
 #tech-mking {
@@ -216,7 +216,7 @@ h4 {
 }
 
 a {
-  color: #FF4C60;
+  color: #5bff4c;
   outline: 0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -287,7 +287,7 @@ pre {
   width: 16px;
   height: 16px;
   display: block;
-  background: #FF4C60;
+  background: #5bff4c;
   box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
   border-radius: 50%;
   transform: rotate(90deg);
@@ -333,7 +333,7 @@ pre {
   position: absolute;
   width: 16px;
   height: 16px;
-  background: #FF4C60;
+  background: #5bff4c;
   box-shadow: 2px 2px 8px rgba(255, 76, 96, 0.09);
   border-radius: 50%;
   animation: moveSvg 6.9s linear infinite;
@@ -578,16 +578,16 @@ header.desktop-header-1.light {
   border-right: solid 1px rgba(0, 0, 0, 0.05);
 }
 header.desktop-header-1.light .vertical-menu li .nav-link.active {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 header.desktop-header-1.light .vertical-menu li a {
   color: #353353;
 }
 header.desktop-header-1.light .vertical-menu li a:hover {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 header.desktop-header-1.light .vertical-menu li i {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 
 header.desktop-header-2 {
@@ -1119,7 +1119,7 @@ section.home.light .social-icons li a:hover {
 }
 .portfolio-item .details span.term {
   color: #FFF;
-  background: #FF4C60;
+  background: #5bff4c;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   font-size: 14px;
@@ -1155,7 +1155,7 @@ section.home.light .social-icons li a:hover {
   font-size: 1rem;
   font-weight: 700;
   display: block;
-  background: #FF4C60;
+  background: #5bff4c;
   border-radius: 12px;
   height: 40px;
   line-height: 42px;
@@ -1207,10 +1207,10 @@ section.home.light .social-icons li a:hover {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-filter li:hover {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 .portfolio-filter li.current {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 .portfolio-filter li:not(:last-child) {
   margin-right: 1.8rem;
@@ -1373,7 +1373,7 @@ select.portfolio-filter-mobile {
   transform: scale(1.1);
 }
 .blog-item .category {
-  background: #FF4C60;
+  background: #5bff4c;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   color: #FFF;
@@ -1394,7 +1394,7 @@ select.portfolio-filter-mobile {
   color: #353353;
 }
 .blog-item .details h4.title a:hover {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 .blog-item .meta {
   font-size: 14px;
@@ -1650,13 +1650,13 @@ body.dark a:hover {
   color: #FFF;
 }
 body.dark .portfolio-filter li.current {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 body.dark .blog-item .details h4.title a {
   color: #FFF;
 }
 body.dark .blog-item .details h4.title a:hover {
-  color: #FF4C60;
+  color: #5bff4c;
 }
 body.dark .contact-info {
   background-image: url("../images/map-light.png");
@@ -1947,7 +1947,7 @@ body.dark footer.footer {
   background: #FFF;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #5bff4c;
   position: absolute;
   left: -7px;
   top: 0;
@@ -1959,7 +1959,7 @@ body.dark footer.footer {
   background: #FFF;
   font-family: "simple-line-icons";
   font-size: 24px;
-  color: #FF4C60;
+  color: #584cff;
   position: absolute;
   left: -7px;
   top: 0;
@@ -1987,7 +1987,7 @@ body.dark footer.footer {
 .timeline span.line {
   position: absolute;
   width: 1px;
-  background-color: #FF4C60;
+  background-color: #5bff4c;
   top: 30px;
   bottom: 30px;
   left: 34px;
@@ -2041,7 +2041,7 @@ body.dark footer.footer {
 }
 
 #return-to-top:hover {
-  background: #FF4C60;
+  background: #5bff4c;
 }
 
 /* === Helper === */
@@ -2378,7 +2378,7 @@ body.dark footer.footer {
 }
 
 .slick-dots li.slick-active button:before {
-  background: #FF4C60;
+  background: #5bff4c;
   border-radius: 3px;
   opacity: 1;
   height: 6px;
